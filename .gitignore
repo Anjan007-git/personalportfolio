@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Audit artifacts
+audit_results/
+shot_*.png
+*.log
+
+# Temporary profiles
+.tmp_chrome/
+.tmp_edge/
+
+# Submissions & local data
+contact_submissions.jsonl
+
+# Legacy clone tool
+goclone/
+
+# OS files
+.DS_Store
+Thumbs.db
