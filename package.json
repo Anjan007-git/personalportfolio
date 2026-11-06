@@ -1,7 +1,7 @@
 {
-  "name": "tanishbhavsar-clone",
+  "name": "personalportfolio",
   "version": "1.0.0",
-  "description": "Exact 1:1 clone of https://tanishbhavsar.vercel.app",
+  "description": "Personal Portfolio of Anjan Prajapati — AI engineer and full-stack developer in Mumbai, India",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,10 +10,10 @@
   },
   "keywords": [
     "portfolio",
-    "clone",
+    "anjan-prajapati",
     "nextjs"
   ],
-  "author": "",
+  "author": "Anjan Prajapati",
   "license": "ISC"
 }
 
